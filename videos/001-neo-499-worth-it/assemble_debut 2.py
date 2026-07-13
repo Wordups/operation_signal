@@ -11,6 +11,7 @@ from pathlib import Path
 HERE = Path(__file__).parent
 NARR = HERE / "narration-debut"
 NARR_HUMAN = HERE / "narration-human"
+NARR_CLONE = HERE / "narration-clone"
 GFX = HERE / "graphics"
 BROLL = HERE / "broll"
 OUT = HERE / "debut-preview.mp4"
@@ -57,9 +58,10 @@ def find_audio(narr_dir: Path, name: str) -> Path | None:
 
 
 def pick_narration() -> Path:
-    """Brian's recordings win over TTS once all sections are present."""
-    if all(find_audio(NARR_HUMAN, mp3) for mp3, _, _ in TIMELINE):
-        return NARR_HUMAN
+    """Cloned voice wins over human takes, which win over TTS — each only once all sections are present."""
+    for cand in (NARR_CLONE, NARR_HUMAN):
+        if all(find_audio(cand, mp3) for mp3, _, _ in TIMELINE):
+            return cand
     return NARR
 
 

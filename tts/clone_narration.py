@@ -1,4 +1,4 @@
-"""Generate narration in Brian's cloned voice with Chatterbox (local, CPU).
+"""Generate narration in Brian's cloned voice with Chatterbox (local; MPS on Apple Silicon, else CPU).
 
 Usage:
   python tts/clone_narration.py videos/001-neo-499-worth-it [section ...]
@@ -69,7 +69,19 @@ def main() -> None:
     out_dir = video / "narration-clone"
     out_dir.mkdir(exist_ok=True)
 
-    model = ChatterboxTTS.from_pretrained(device="cpu")
+    # Apple Silicon runs much faster on MPS; Chatterbox checkpoints need the
+    # documented map_location patch there. Anything else stays on CPU.
+    device = "mps" if torch.backends.mps.is_available() else "cpu"
+    if device == "mps":
+        _torch_load = torch.load
+
+        def _patched_load(*args, **kwargs):
+            kwargs.setdefault("map_location", torch.device(device))
+            return _torch_load(*args, **kwargs)
+
+        torch.load = _patched_load
+    print(f"device: {device}", flush=True)
+    model = ChatterboxTTS.from_pretrained(device=device)
     sr = model.sr
 
     for key in sorted(only):
