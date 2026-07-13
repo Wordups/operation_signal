@@ -1,0 +1,7 @@
+When NEO hits a task its AI can't handle, a trained 1X operator in a VR headset sees through its cameras and takes over its hands. 1X calls it Expert Mode. The product in the ad is an autonomous robot. The product in your house is, some of the time, a human presence wearing a robot body.
+
+The facts are better than the internet rumor version: nothing connects without you. You schedule and approve every session, you can block rooms entirely, faces are blurred by default, and the operators are background-checked and don't know whose home they're in. It's disclosed. It's actually a clever way to ship a robot before the AI is finished.
+
+I work in cybersecurity, and it's changed how I look at every new device. Most people ask what chores this robot does. I ask: who has access to the cameras? What data leaves the home? Those aren't fear questions — history just shows convenience always arrives before the security conversation catches up.
+
+And Expert Mode tells you what this product really is: you're not buying a robot — you're buying a seat in the training fleet. Every task an operator performs becomes training data teaching version three to do it alone. Early buyers aren't just customers. They're the teachers. Which is noble — it's how self-driving cars got trained. Just know whether you're paying to be the teacher, or waiting to hire the graduate.

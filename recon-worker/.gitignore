@@ -1,0 +1,7 @@
+config.json
+data/
+report.md
+titles.csv
+node_modules/
+.wrangler/
+.dev.vars

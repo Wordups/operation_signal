@@ -1,0 +1,12 @@
+{
+  "apiKey": "PASTE_YOUTUBE_DATA_API_V3_KEY_OR_SET_YT_API_KEY_ENV",
+  "targets": [
+    "@airevolutionx",
+    "@TheAiGrid",
+    "@theAIsearch",
+    "@intheworldofai"
+  ],
+  "maxVideos": 200,
+  "outlierMultiplier": 3,
+  "shortFormMaxSeconds": 180
+}

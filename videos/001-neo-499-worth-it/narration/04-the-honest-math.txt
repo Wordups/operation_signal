@@ -1,0 +1,21 @@
+Let's price out what NEO actually replaces, because "it does chores" is not a number.
+
+Generous scenario: NEO reliably saves you seven hours of housework a week — tidying, laundry, resetting rooms. Hired house cleaning in the US runs about thirty to fifty dollars an hour, so seven hours is real money IF you were actually paying someone. Most people aren't. Most people just… do it, or don't.
+
+So compare three real options.
+
+Option one: the boring stack. A flagship robot vacuum-mop — list price is sixteen, seventeen hundred these days, but they're a thousand dollars on sale constantly. Add a human cleaner twice a month at about a hundred and fifty per visit. First year, all in: call it forty-six hundred to five thousand dollars. And here's the thing — this stack works TODAY. The vacuum doesn't fall over. The cleaner cleans bathrooms, which NEO cannot do.
+
+Option two: NEO on subscription. Six thousand a year. It covers the tidying-and-laundry lane — slowly, and partly via Expert Mode — but you likely still want the vacuum, and you still need the human for deep cleaning. So realistically it's six thousand ON TOP of some of option one, not instead of it.
+
+And let me make that concrete, because "it covers the tidying lane" is doing a lot of work in that sentence. Picture an actual week with this thing, based on what it can do today. Monday afternoon, it resets the living room — picking things up off the floor, straightening, slow and steady, on a four-hour battery. Somewhere in there it hits something it can't figure out — a latch, a weird cabinet, a pile it doesn't understand — and now you're opening the app to schedule an Expert session, which means picking a time window and approving a human operator to steer it through. The laundry gets loaded. Eventually. The bathroom stays exactly as dirty as it was, because that's not on the menu. None of this is a knock — version one of everything looks like this. But when the price is six thousand dollars a year, "what does a normal Tuesday actually look like" is the question that matters, and the honest answer is: helpful, slow, and supervised.
+
+Option three: NEO purchased outright. Twenty thousand up front, on a version-one product, before a single customer review exists — for a machine whose successor, by the company's own roadmap and everyone else's, will be dramatically better within two to three years. Twenty grand on gen one is what early adopters paid for the first plasma TVs. You know how that went.
+
+On pure dollars, the boring stack wins. It's not close. Anyone who tells you NEO "pays for itself" in saved time is doing influencer math.
+
+BUT — and this is where I'll genuinely defend the robot — pure dollars is the wrong frame for two groups of people. If you have mobility limitations, the comparison isn't "cheaper than a cleaner," it's "can I stay independent in my own home" — and assisted living now runs about seventy-five thousand dollars a year at the national median. Against that, six grand a year for a capability that improves every month is a completely different conversation.
+
+I want to sit on that for one more second, because it's the least talked-about and most important use case in this entire category. For someone who needs help reaching things, carrying things, or just having another set of hands in the house, "slow but tireless" isn't a bug — it's the entire point. The robot doesn't get impatient. It doesn't watch the clock. And the subscription means a family isn't gambling twenty thousand dollars on version-one hardware — they're renting help that gets better every month, and they can stop any time the math stops working. If that's your situation, ignore my verdict and run your own numbers. And if you're a developer or a business building on robotics, NEO is the cheapest general-purpose home humanoid with real support you can put in a real house — Unitree's G1 is thirteen and a half thousand, but that's a research platform, not a housemate.
+
+For everyone else? The math says wait. And "wait" has its own number, so let's put a number on it.

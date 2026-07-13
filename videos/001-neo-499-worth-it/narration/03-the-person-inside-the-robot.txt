@@ -1,0 +1,19 @@
+Here's how NEO handles a task its AI can't do yet: a trained 1X operator, wearing a VR headset in an office, sees through your robot's cameras and takes over its hands. 1X calls it Expert Mode.
+
+The product in the ad is an autonomous robot. The product in your house is, some of the time, a human presence wearing a robot body.
+
+Now — I find this genuinely fascinating rather than sinister, and I'll tell you why. But first, the facts, because they're better than the internet rumor version: nothing connects without you. You schedule Expert sessions through the app and approve each one. You can mark rooms as no-go zones the robot can't enter even under teleoperation. Faces are blurred for the operator by default, audio can be masked, there's a data-sharing opt-out, and the operators are background-checked and don't know whose home they're in. This is not a hidden-camera scandal. It's disclosed. It's actually a clever way to ship a robot before the AI is finished.
+
+And I'll tell you where I'm coming from on this. I work in cybersecurity, and it has fundamentally changed how I evaluate new technology. Most people look at a humanoid robot and immediately ask what chores it can do. I ask a different set of questions. Who has access to the cameras? What data leaves the home? How are remote sessions authenticated? What happens when the robot encounters something it can't understand? Those aren't questions designed to create fear — they're the same questions I ask about every connected device, because history has shown that convenience almost always arrives before the security conversation catches up.
+
+So let me answer my own questions, based on what's public. Access is session-based and you approve each one — that's genuinely better than most security cameras, which are just… on. Data leaves the home as training footage unless you opt out, so the honest framing is that the default is sharing. Authentication and session security — 1X says the right things, but no one outside the company has kicked the tires yet, because, again, nobody has one. That's not a red flag. It's just the actual state of play: decent design on paper, unproven in the wild. Every connected product you own started exactly here.
+
+But here's what Expert Mode really tells you about this product — and this is the reframe that changes the whole buying decision:
+
+You're not buying a robot. You're buying a seat in the training fleet. Every task an operator performs through your NEO becomes training data that teaches the AI to do it on its own. The whole business model is that thousands of homes generate the data that makes version three actually good. Early buyers aren't just customers — they're the teachers.
+
+Which is noble! That's exactly how self-driving cars got trained. It's just worth knowing, before you spend twenty grand, whether you're paying to be the teacher — or waiting to hire the graduate.
+
+If a scheduled human presence in your home is a hard no for you, at any price, this product is not for you yet, and that's a completely reasonable place to land. For everyone else, it's a math question.
+
+So let's do the math nobody in the demo videos does.

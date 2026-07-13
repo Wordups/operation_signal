@@ -1,0 +1,21 @@
+Right now, you can go to a website, type in your credit card, and order a humanoid robot for your house. Five hundred dollars a month, about the price of a car payment, and a five-foot-six robot shows up at your door, walks into your kitchen, and starts doing your chores.
+
+That's the pitch. But I read the spec sheets, the early reviews, and the terms of service, and there are three things buried in the fine print that completely change the math. One of them involves a stranger being able to see inside your house.
+
+The robot is called NEO, made by a company called 1X. You can buy it outright for around twenty thousand dollars, or subscribe for roughly four ninety-nine a month. Quick math on that subscription: five hundred a month is six thousand a year. Over seven years, that's forty-two thousand dollars. You could buy the robot twice.
+
+And what does it actually do? The honest list, from people who have one, not the promo reel: it opens doors, tidies up, loads laundry, waters plants, and fetches things. Slowly. Early users describe watching it fold a shirt the way you'd watch a toddler tie shoelaces. Impressive that it happens at all. Not fast. It doesn't cook. It doesn't clean bathrooms. And it doesn't vacuum better than a three-hundred-dollar robot vacuum.
+
+Now here's the part they don't put in the ad. A lot of what NEO does in your home is not done by artificial intelligence. It's done by a human being. A trained operator, sitting in an office, wearing a VR headset, seeing through your robot's cameras and controlling its hands. When the AI can't handle a task, a remote human takes over.
+
+Sit with that. The product in the ad is an autonomous robot. The product in your house is, part of the time, a very expensive puppet with a stranger's eyes behind it. To be fair, it's disclosed, you schedule it, faces get blurred, and you can set no-go zones. This isn't a hidden camera scandal. But it tells you what you're really buying. Every task an operator performs through your robot becomes training data that teaches the AI to do it on its own. Early buyers aren't customers. They're the training fleet. So the real question isn't whether this robot is worth five hundred a month. It's whether you want to pay five hundred a month to help train version three, or just wait and buy version three.
+
+That's a math question. So let's do the math nobody in the demo videos does. Option one, the boring stack: a flagship robot vacuum for about a thousand dollars, plus a cleaner twice a month. Around forty-six hundred a year, and it works today. The vacuum doesn't fall over, and the cleaner cleans bathrooms, which NEO cannot do. Option two, NEO on subscription: six thousand a year, and you probably still need the vacuum and the cleaner. Option three, buy it outright: twenty grand on version-one hardware, when every credible forecast has these prices falling thirty to fifty percent in the next two or three years. Twenty thousand on gen one is what early adopters paid for the first plasma TVs. You know how that went.
+
+On pure dollars, the boring stack wins. It's not close. Anyone telling you this robot pays for itself is doing influencer math.
+
+So here's the whole video in four sentences. If you're buying NEO to save money on chores, don't. If you have mobility limitations, the math genuinely changes, because against assisted living at sixty thousand a year, six grand is nothing, and for that, it's worth a serious look. If you just want to be early to the future and can afford it, subscribe, don't buy. Five hundred a month you can cancel is a fair price for a front-row seat; twenty thousand locked into version one is not.
+
+And if you're everyone else: wait. Here's your buy signal. When a humanoid robot can clean a bathroom unattended and costs under ten grand, it's time. My honest guess is that's twenty twenty-eight. Until then, the smartest move costs nothing: let other people's subscription fees train your future robot.
+
+If this saved you twenty thousand dollars, the like button costs you nothing. Links to everything I mentioned, including the robot vacuum that actually is worth buying right now, are in the description. Subscribe if you want the honest math on every home robot before you spend a dollar on one. See you in the next one.

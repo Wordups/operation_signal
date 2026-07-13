@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+
+# Secrets (recon-worker / tts)
+config.json
+.env
+.dev.vars
+
+# Rendered video outputs — reproducible via assemble_*.py, too big for GitHub
+videos/*/draft-preview.mp4
+videos/*/debut-preview.mp4
+videos/*/debut-final.mp4
+
+# Redundant zip of Narration/files/
+Narration/files.zip
+
+# node
+node_modules/
