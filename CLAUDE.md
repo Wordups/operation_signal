@@ -4,8 +4,8 @@ Faceless YouTube channel, humanoid-robot **buyer** lane. `BLUEPRINT.md` (repo ro
 
 ## Where the project lives
 
-- **Canonical working copy:** iCloud Drive → `operation signal` (Mac: `~/Library/Mobile Documents/com~apple~CloudDocs/operation signal`). Work there so outputs sync.
-- **Git remote:** https://github.com/Wordups/operation_signal — the `.git` is inside the iCloud folder. Commit+push before switching machines, pull after. Rendered videos (`debut-*.mp4`, `draft-preview.mp4`) and `Narration/files.zip` are gitignored — they exist only in iCloud.
+- **Git remote (work from a clone):** https://github.com/Wordups/operation_signal. On the Mac, `git clone` to a local folder (e.g. `~/dev/operation-signal`) and work there — everything needed is committed, including `voice-ref.wav`, the training master, scripts, b-roll, and music.
+- **iCloud Drive → `operation signal`** (Mac: `~/Library/Mobile Documents/com~apple~CloudDocs/operation signal`) is the media archive: it additionally holds the gitignored renders (`debut-*.mp4`, `draft-preview.mp4`) and `Narration/files.zip`. It also contains a `.git` — DO NOT commit from the iCloud copy: on 2026-07-13 iCloud renamed files to `name 2.ext` conflict copies mid-edit (fixed in `3036f06`). Copy finished renders into it by hand.
 
 ## CURRENT TASK — finish the voice clone (handed off from the PC 2026-07-13)
 
